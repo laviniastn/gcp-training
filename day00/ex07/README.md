@@ -1,0 +1,2 @@
+--head displays headers by default;
+-X HEAD method does not display headers by default and to view the headers you also need to pass the -i command line parameter to Curl

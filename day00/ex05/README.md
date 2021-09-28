@@ -1,0 +1,1 @@
+Environment variables are named values that are available in the whole system and are interited by child processes and shells. The system and the behaviour of the applications can be customized using the env varialbles
